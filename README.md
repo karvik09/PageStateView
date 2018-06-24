@@ -1,9 +1,13 @@
 # PageStateView
 
 
-Beautiful and smooth custom loading views
+PageStateView with Stepwise movement
 
 ![](https://github.com/VIKAS9899/PageStateView/blob/master/images/step.gif?raw=true)
+
+
+PageStateView with Trans movement
+
 ![](https://github.com/VIKAS9899/PageStateView/blob/master/images/trans.gif?raw=true)
 
 ## Usage

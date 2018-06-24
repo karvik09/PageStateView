@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PageStateView">
+        <attr name="primary_color" format="color"/>
+        <attr name="secondary_color" format="color"/>
+        <attr name="size" format="dimension"/>
+        <attr name="movement" format="enum">
+            <enum name="stepwise" value="1"/>
+            <enum name="trans" value="2"/>
+        </attr>
+    </declare-styleable>
+</resources>
